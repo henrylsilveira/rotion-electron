@@ -1,7 +1,7 @@
 {
   "name": "rotion",
   "productName": "Rotion",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bloco pessoal para armazenar anotações.",
   "main": "./out/main/index.js",
   "author": "henrylsilveira",
